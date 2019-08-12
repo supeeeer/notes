@@ -24,7 +24,7 @@
 
   客户端 - Nginx - Tomcat，Tomcat的请求IP地址是Nginx的地址，而非客户端请求地址
   
-  ![image-20190811004905413](/Users/supeeeer/Documents/myGitHub/Notes/img/nginx1.png)
+  ![nginx1](Nginx特点.assets/nginx1.png)
 
 ## 负载均衡
 
@@ -43,7 +43,9 @@
 
 Nginx采用2
 
-![image-20190811004733122](/Users/supeeeer/Documents/myGitHub/Notes/img/nginx.png)
+![nginx](Nginx特点.assets/nginx.png)
+
+
 
 ## 并发处理
 
