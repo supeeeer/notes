@@ -1,7 +1,3 @@
----
-
----
-
 # MySQL与InnoDB
 
 [『浅入浅出』MySQL 和 InnoDB](https://draveness.me/mysql-innodb)
@@ -9,6 +5,8 @@
 [为什么你要用 InnoDB, 而不是 MyISAM ？](https://juejin.im/post/5c43ee36518825254b5a3c3a)
 
 ---
+
+[TOC]
 
 ## MySQL 的架构
 
